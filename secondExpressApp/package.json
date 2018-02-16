@@ -1,0 +1,14 @@
+{
+  "name": "farmer_dale",
+  "version": "1.0.0",
+  "description": "Express Routing Assignment a la Colt Steele's Web Bootcamp on udemy",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Merry Caroline Purser",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
